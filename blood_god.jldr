@@ -1,0 +1,14 @@
+{
+  "name": "Blood_God",
+  "displayedName": "8 more fucking bears!",
+  "description": "A demonic being beyond regular sacrifice",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Intermediate",
+  "temple": "Nature",
+  "baseAttack": 10,
+  "baseHealth": 10,
+  "cost": 5,
+  "abilities": [ "AllStrike"],
+  "appearanceBehaviour": [ "RareCardColors" ],
+  "texture": "eightfuckingbears.png"
+}
